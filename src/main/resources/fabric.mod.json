@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Crystal Wing",
-  "description": "",
+  "description": "Adds a magical wing which brings you back home",
   "authors": [
     "DanyGames2014"
   ],
@@ -21,9 +21,6 @@
       "net.danygames2014.crystalwing.compat.CrystalWingAMIPlugin"
     ]
   },
-  "mixins": [
-    "crystalwing.mixins.json"
-  ],
 
   "depends": {
     "minecraft": "1.0.0-beta.7.3"

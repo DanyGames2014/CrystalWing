@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "crystalwing",
+  "version": "${version}",
+
+  "name": "Crystal Wing",
+  "description": "",
+  "authors": [
+    "DanyGames2014"
+  ],
+
+  "license": "MIT",
+  "icon": "assets/crystalwing/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "stationapi:event_bus": [
+      "net.danygames2014.crystalwing.CrystalWing"
+    ],
+    "alwaysmoreitems:plugin": [
+      "net.danygames2014.crystalwing.compat.CrystalWingAMIPlugin"
+    ]
+  },
+  "mixins": [
+    "crystalwing.mixins.json"
+  ],
+
+  "depends": {
+    "minecraft": "1.0.0-beta.7.3"
+  }
+}

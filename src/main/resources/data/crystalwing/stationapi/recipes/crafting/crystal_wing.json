@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "eff"
+  ],
+  "key": {
+    "g": {
+      "tag": "c:ingots/gold"
+    },
+    "e": {
+      "item": "minecraft:glowstone"
+    },
+    "f": {
+      "tag": "c:feathers"
+    }
+  },
+  "result": {
+    "item": "crystalwing:crystal_wing",
+    "count": 1
+  }
+}

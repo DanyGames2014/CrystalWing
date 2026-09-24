@@ -1,0 +1,7 @@
+item.crystalwing.crystal_wing.name=Crystal Wing
+item.crystalwing.burning_wing.name=Burning Wing
+item.crystalwing.burned_wing.name=Burned Wing
+
+description.crystalwing.crystal_wing=A magical wing which will bring you home
+description.crystalwing.burning_wing=Its burning! Throw it away!.. or try jumping in water
+description.crystalwing.burned_wing=Still posesses magical powers, but might not work as intended
